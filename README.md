@@ -5,7 +5,7 @@ I'm a student at @SoftwareUniversity at Sofia as im currently working on making 
 - ⚡ Fun fact: Dennis Lloyd & code all the way 
 <p align="center" ><img src="https://workingnation.com/wp-content/uploads/2018/03/shutterstock_678565858.jpg" /></p>
 ## Skills and Experience
-<code><img height="50" src="https://simpleicons.org/icons/javascript.svg"></code>
+* <code><img height="50" src="https://simpleicons.org/icons/javascript.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/node-dot-js.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/java.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/typescript.svg"></code>
