@@ -1,11 +1,13 @@
 ### Hi there 👋
+My name is Krasimir Ivaylov
+I'm a student at @SoftwareUniversity at Sofia as im currently working on making a hobby into occupation.
 
-My name is Krasimir, i'm from Bulgaria  and i do content on Design and Development.
+Skills: VUE JS / REACT / JS / HTML / CSS / JAVA
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently focused on studying. 
-- 🌱 I’m currently learning Vue.js
-- ⚡ Fun fact: Dennis Lloynd & code all the way
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrasiIvaylov)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KrasiIvaylov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/krasimir-ivaylov-3b6800198/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/krasiivaylov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user:15108320)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KrasiIvaylov&show_icons=true)  
+
