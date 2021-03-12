@@ -13,7 +13,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KrasiIvaylov&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KrasiIvaylov)  
-
 ![GitHub metrics](https://metrics.lecoq.io/KrasiIvaylov)  
 
