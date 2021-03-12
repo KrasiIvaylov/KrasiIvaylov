@@ -3,6 +3,8 @@ I'm a student at @SoftwareUniversity at Sofia as im currently working on making 
 
 - 🌱 I’m currently learning Vue.js 
 - ⚡ Fun fact: Dennis Lloyd & code all the way 
+- <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu8GrR4JDZhoglUgxri3V6xJFfm60u95UEcA&usqp=CAU" /></p>
+
 
 ## Skills and Experience
 <code><img height="50" src="https://simpleicons.org/icons/javascript.svg"></code>
