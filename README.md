@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Krasimir Ivaylov
-I'm a student at @SoftwareUniversity at Sofia as im currently working on making a hobby into occupation.
+Student @ SoftUni Bulgaria,
+found my passion in programing several years ago so now im working on transforming a hobby into a career.
 
 - 🌱 I’m currently learning Vue.js 
 - ⚡ Fun fact: Dennis Lloyd & code all the way 
