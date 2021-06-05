@@ -9,7 +9,6 @@ found my passion in programing several years ago so now im working on transformi
 ## Skills and Experience
 
 * <code><img height="50" src="https://simpleicons.org/icons/javascript.svg"></code>
-<code><img height="50" src="https://simpleicons.org/icons/node-dot-js.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/java.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/typescript.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/react.svg"></code>
