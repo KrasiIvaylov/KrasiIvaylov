@@ -15,6 +15,8 @@ found my passion in programing several years ago so now im working on transformi
 <code><img height="50" src="https://simpleicons.org/icons/html5.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/css3.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/mysql.svg"></code>
+<code><img height="50" src="https://simpleicons.org/icons/spring.svg"></code>
+<code><img height="50" src="https://simpleicons.org/icons/hibernate.svg"></code>
 
 
 ## Connect me with:
