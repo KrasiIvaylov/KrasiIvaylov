@@ -3,7 +3,7 @@ Student @ SoftUni Bulgaria,
 found my passion in programing several years ago so now im working on transforming a hobby into a career.
 
 - 🌱 I’m currently learning Spring Data 💻
-<p align="center" ><img src="https://workingnation.com/wp-content/uploads/2018/03/shutterstock_678565858.jpg" /></p>
+<p align="center" ><img src="https://i.makeagif.com/media/11-06-2019/5Faz3_.gif" /></p>
 
 ## Skills and Experience
 
