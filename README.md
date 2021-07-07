@@ -2,7 +2,7 @@
 Student @ SoftUni Bulgaria,
 found my passion in programing several years ago so now im working on transforming a hobby into a career.
 
-- 🌱 I’m currently learning Vue.js 
+- 🌱 I’m currently learning Spring Data 
 - ⚡ Fun fact: Dennis Lloyd & code all the way 
 <p align="center" ><img src="https://workingnation.com/wp-content/uploads/2018/03/shutterstock_678565858.jpg" /></p>
 
