@@ -8,7 +8,7 @@ found my passion in programing several years ago so now im working on transformi
 ## Skills and Experience
 
 
-<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></code>
+<code><img height="50" src="https://simpleicons.org/icons/java.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/javascript.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/typescript.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/html5.svg"></code>
