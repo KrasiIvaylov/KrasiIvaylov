@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Krasimir Ivaylov
 Student @ SoftUni Bulgaria,
 found my passion in programing several years ago so now im working on transforming a hobby into a career.
-
-- 🌱 I’m currently learning Spring Data 💻
 <p align="center" ><img src="https://i.makeagif.com/media/11-06-2019/5Faz3_.gif" /></p>
 
 ## Skills and Experience
